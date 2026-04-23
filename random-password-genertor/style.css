@@ -79,6 +79,7 @@ body{
     justify-content: center;
     align-items: center;
     font-size: 20px;
+    transition: .275s;
 }
 
 .active.alert-container{
